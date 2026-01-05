@@ -3,7 +3,7 @@
   "version": "0.8.0",
   "main": "app.ts",
   "scripts": {
-    "compile": "tsc",
+    "build": "tsc",
     "lint": "eslint --ext .ts --ignore-path .gitignore .",
     "fix": "eslint --fix  --ext .ts .",
     "validate": "homey app validate --level=verified",
