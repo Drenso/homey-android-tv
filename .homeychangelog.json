@@ -187,5 +187,8 @@
   },
   "1.4.0": {
     "en": "Improve connection resilience"
+  },
+  "1.4.1": {
+    "en": "Maintenance update"
   }
 }
