@@ -15,7 +15,7 @@
     "@drenso/homey-log": "10.7502.0",
     "crypto-js": "4.2.0",
     "node-fetch": "2.7.0",
-    "node-forge": "1.4.0",
+    "node-forge": "1.4.1",
     "protobufjs": "7.6.6",
     "source-map-support": "0.5.21"
   },
